@@ -1,0 +1,9 @@
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Lab_11_Movielist\bin\Debug\Lab_11_Movielist.exe.config
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Lab_11_Movielist\bin\Debug\Lab_11_Movielist.exe
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Lab_11_Movielist\bin\Debug\Lab_11_Movielist.pdb
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Lab_11_Movielist\bin\Debug\Movies.dll
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Lab_11_Movielist\bin\Debug\Movies.pdb
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Lab_11_Movielist\obj\Debug\Lab_11_Movielist.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Lab_11_Movielist\obj\Debug\Lab_11_Movielist.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Lab_11_Movielist\obj\Debug\Lab_11_Movielist.exe
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Lab_11_Movielist\obj\Debug\Lab_11_Movielist.pdb

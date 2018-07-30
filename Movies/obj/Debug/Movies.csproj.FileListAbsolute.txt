@@ -1,0 +1,6 @@
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Movies\bin\Debug\Movies.dll
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Movies\bin\Debug\Movies.pdb
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Movies\obj\Debug\Movies.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Movies\obj\Debug\Movies.dll
+C:\Users\GC Student\Source\Repos\Lab_11_Movielist\Movies\obj\Debug\Movies.pdb
